@@ -9,4 +9,9 @@ eureka:
   
   
 name: "vijay"
+limits:
+  service:
+    minimum: 4
+    maximum: 1000
+
 
