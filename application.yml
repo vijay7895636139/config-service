@@ -9,5 +9,4 @@ eureka:
   
   
 name: "vijay"
-limits.service.minimum=2
-limits.service.maximum=1000
+
